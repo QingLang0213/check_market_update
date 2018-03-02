@@ -1,0 +1,7 @@
+170516 13:36:55.088: [INFO] [get_app] [set_pattern] 测试网站类型:应用宝
+170516 13:36:55.101: [WARNING] [myapp] [log_traceback] Traceback (most recent call last):
+170516 13:36:55.102: [WARNING] [myapp] [log_traceback]   File "get_app.py", line 193, in run
+170516 13:36:55.104: [WARNING] [myapp] [log_traceback]   File "get_app.py", line 184, in get_package_name
+170516 13:36:55.105: [WARNING] [myapp] [log_traceback] IndexError: list index out of range
+170516 13:36:55.107: [WARNING] [myapp] [log_traceback] 
+170516 13:36:55.111: [DEBUG] [get_app] [run] 测试完成....
